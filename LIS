@@ -50,5 +50,6 @@ int main()
         else
             cout << LIS(a, n) << endl;
     }
+    
     return 0;
 }
