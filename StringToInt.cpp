@@ -122,7 +122,6 @@ int main()
     {
         cout << ret << endl;
     }
-
     char *str6 = "-9999999999999999999999999999999999";
     ret = atoi(str6);
     if (!ret)
