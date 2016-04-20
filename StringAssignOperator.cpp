@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 class CMyString{
 public:
     CMyString(const char * pdata = nullptr);
