@@ -1,6 +1,7 @@
 #include<iostream>
 #include<algorithm>
 using namespace std;
+
 void reverse(char* str)
 {
     char* begin, *end, *ptr;
