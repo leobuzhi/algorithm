@@ -1,6 +1,7 @@
 #include<iostream>
 #include<algorithm>
 using namespace std;
+
 int BiSearch(int* a, int len, int w)            //修改的二分查找，返回数组元素需要插入的位置
 {
     int left = 0, right = len - 1;
