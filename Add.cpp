@@ -17,6 +17,5 @@ int main()
     cout << add(5, 8) << endl;
     cout << add(-2, 15) << endl;
     cout << add(-4, -7) << endl;
-    
     return 0;
 }
